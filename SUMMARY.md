@@ -1,4 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Baby](README.md)
+
+## Good to know
+
+* [Untitled](good-to-know/untitled.md)
+
+## Activities
+
+* [Untitled](activities/untitled.md)
 
